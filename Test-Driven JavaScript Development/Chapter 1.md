@@ -12,7 +12,7 @@
 
   一组相关的测试函数。
   
-* SetUp * Teardown
+* SetUp & Teardown
 
   用来集中设置并提供测试数据。
   
